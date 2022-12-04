@@ -54,8 +54,8 @@ export default function Weather() {
 
         <h3 className="git">
           Open-source code at{" "}
-          <a href="https://github.com/Malva86/Weather--react">GitHub</a> and
-          host at <a href="">Netlify</a>
+          <a href="https://github.com/Malva86/testreact">GitHub</a> and host at{" "}
+          <a href="">Netlify</a>
         </h3>
       </div>
     );
