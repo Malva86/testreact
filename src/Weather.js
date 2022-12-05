@@ -53,8 +53,7 @@ export default function Weather() {
         <h2>Click 🔄 to type a City😊</h2>
 
         <h3 className="git">
-          Open-source code at{" "}
-          <a href="https://github.com/Malva86/testreact">GitHub</a> and host at{" "}
+          Open-source code at <a href="">GitHub</a> and host at{" "}
           <a href="">Netlify</a>
         </h3>
       </div>
